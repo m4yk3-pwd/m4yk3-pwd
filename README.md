@@ -1,7 +1,8 @@
 # Mayke Anselmo
 **`Desenvolvedor FullStack`**
 
-Atualmente cursando Engenharia da Computação pela Universidade Federal de Outro Preto e trabalhando como desenvolvedor full stack desenvolvendo sistemas.
+Atualmente cursando Engenharia da Computação pela Universidade Federal de Outro Preto e trabalhando como desenvolvedor full stack desenvolvendo sistemas. No momento me aprofudando em backend e arquitetura de software.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayke-anselmo) 
 <br/>
