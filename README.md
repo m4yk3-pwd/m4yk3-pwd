@@ -1,16 +1,37 @@
-## Hi there 👋
+# Mayke Anselmo
+**`Desenvolvedor FullStack`**
 
-<!--
-**m4yk3-pwd/m4yk3-pwd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando Engenharia da Computação pela Universidade Federal de Outro Preto e trabalhando como desenvolvedor full stack desenvolvendo sistemas.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayke-anselmo) 
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+
+  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="NodeJS" title="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="RabbitMQ" title="RabbitMQ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Postgres" title="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+</div>
+
+<br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=m4yk3-pwd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=m4yk3-pwd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m4yk3-pwd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=m4yk3-pwd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
